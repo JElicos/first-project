@@ -1,0 +1,15 @@
+[1mdiff --git a/app.txt b/app.txt[m
+[1mindex b56f533..2a9e79b 100644[m
+[1m--- a/app.txt[m
+[1m+++ b/app.txt[m
+[36m@@ -1,4 +1,7 @@[m
+ [m
+ i dont know how to use this:([m
+ [m
+[31m-)[m
+\ No newline at end of file[m
+[32m+[m[32m)[m
+[32m+[m
+[32m+[m
+[32m+[m[32mtest for git diff[m
+\ No newline at end of file[m
