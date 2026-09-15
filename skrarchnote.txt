@@ -1,0 +1,10 @@
+
+Libdata = open("C:\Users\31005\Desktop\大學校\github\LibData.txt","w")
+Libdata.write(self.title, self.author, self.publisher)
+Libdata.close()
+
+
+Libdata = open("C:\Users\31005\Desktop\大學校\github\skrarchnote.txt" , "r")
+list = Libdata.read()
+Libdata.close()
+
